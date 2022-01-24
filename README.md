@@ -1,1 +1,1 @@
-# ljdegit.github.io
+#个人用quan.conf
